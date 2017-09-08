@@ -1,0 +1,263 @@
+Node: 0; Time: +10.0s, Local time: +10.0s, AODV Routing table
+
+AODV Routing table
+Destination	Gateway		Interface	Flag	Expire		Hops
+10.0.0.2	10.0.0.2	10.0.0.1	UP	2.02          	1
+10.255.255.255	10.255.255.255	10.0.0.1	UP	9223372026.85 	1
+127.0.0.1	127.0.0.1	127.0.0.1	UP	9223372026.85 	1
+
+
+Node: 0; Time: +10.00s, Local time: +10.00s, AODV Routing table
+
+AODV Routing table
+Destination	Gateway		Interface	Flag	Expire		Hops
+10.0.0.2	10.0.0.2	10.0.0.1	UP	2.02          	1
+10.255.255.255	10.255.255.255	10.0.0.1	UP	9223372026.85 	1
+127.0.0.1	127.0.0.1	127.0.0.1	UP	9223372026.85 	1
+
+
+Node: 1; Time: +10.00s, Local time: +10.00s, AODV Routing table
+
+AODV Routing table
+Destination	Gateway		Interface	Flag	Expire		Hops
+10.0.0.1	10.0.0.1	10.0.0.2	UP	2.09          	1
+10.0.0.3	10.0.0.3	10.0.0.2	UP	2.01          	1
+10.255.255.255	10.255.255.255	10.0.0.2	UP	9223372026.85 	1
+127.0.0.1	127.0.0.1	127.0.0.1	UP	9223372026.85 	1
+
+
+Node: 2; Time: +10.00s, Local time: +10.00s, AODV Routing table
+
+AODV Routing table
+Destination	Gateway		Interface	Flag	Expire		Hops
+10.0.0.2	10.0.0.2	10.0.0.3	UP	2.02          	1
+10.0.0.4	10.0.0.4	10.0.0.3	UP	2.09          	1
+10.255.255.255	10.255.255.255	10.0.0.3	UP	9223372026.85 	1
+127.0.0.1	127.0.0.1	127.0.0.1	UP	9223372026.85 	1
+
+
+Node: 3; Time: +10.00s, Local time: +10.00s, AODV Routing table
+
+AODV Routing table
+Destination	Gateway		Interface	Flag	Expire		Hops
+10.0.0.3	10.0.0.3	10.0.0.4	UP	2.01          	1
+10.0.0.5	10.0.0.5	10.0.0.4	UP	2.05          	1
+10.255.255.255	10.255.255.255	10.0.0.4	UP	9223372026.85 	1
+127.0.0.1	127.0.0.1	127.0.0.1	UP	9223372026.85 	1
+
+
+Node: 4; Time: +10.00s, Local time: +10.00s, AODV Routing table
+
+AODV Routing table
+Destination	Gateway		Interface	Flag	Expire		Hops
+10.0.0.4	10.0.0.4	10.0.0.5	UP	2.09          	1
+10.255.255.255	10.255.255.255	10.0.0.5	UP	9223372026.85 	1
+127.0.0.1	127.0.0.1	127.0.0.1	UP	9223372026.85 	1
+
+
+Node: 0; Time: +50.00s, Local time: +50.00s, AODV Routing table
+
+AODV Routing table
+Destination	Gateway		Interface	Flag	Expire		Hops
+10.0.0.2	10.0.0.2	10.0.0.1	UP	2.01          	1
+10.0.0.3	10.0.0.3	10.0.0.1	UP	2.01          	1
+10.0.0.4	10.0.0.4	10.0.0.1	UP	11.09         	1
+10.0.0.5	10.0.0.4	10.0.0.1	DOWN	8.09          	2
+10.255.255.255	10.255.255.255	10.0.0.1	UP	9223371986.85 	1
+127.0.0.1	127.0.0.1	127.0.0.1	UP	9223371986.85 	1
+
+
+Node: 1; Time: +50.00s, Local time: +50.00s, AODV Routing table
+
+AODV Routing table
+Destination	Gateway		Interface	Flag	Expire		Hops
+10.0.0.1	10.0.0.1	10.0.0.2	UP	2.01          	1
+10.0.0.3	10.0.0.3	10.0.0.2	UP	2.01          	1
+10.255.255.255	10.255.255.255	10.0.0.2	UP	9223371986.85 	1
+127.0.0.1	127.0.0.1	127.0.0.1	UP	9223371986.85 	1
+
+
+Node: 2; Time: +50.00s, Local time: +50.00s, AODV Routing table
+
+AODV Routing table
+Destination	Gateway		Interface	Flag	Expire		Hops
+10.0.0.1	10.0.0.1	10.0.0.3	UP	2.01          	1
+10.0.0.2	10.0.0.2	10.0.0.3	UP	2.01          	1
+10.0.0.4	10.0.0.4	10.0.0.3	UP	2.09          	1
+10.255.255.255	10.255.255.255	10.0.0.3	UP	9223371986.85 	1
+127.0.0.1	127.0.0.1	127.0.0.1	UP	9223371986.85 	1
+
+
+Node: 3; Time: +50.00s, Local time: +50.00s, AODV Routing table
+
+AODV Routing table
+Destination	Gateway		Interface	Flag	Expire		Hops
+10.0.0.1	10.0.0.1	10.0.0.4	UP	2.01          	1
+10.0.0.3	10.0.0.3	10.0.0.4	UP	2.01          	1
+10.0.0.5	10.0.0.5	10.0.0.4	UP	2.04          	1
+10.255.255.255	10.255.255.255	10.0.0.4	UP	9223371986.85 	1
+127.0.0.1	127.0.0.1	127.0.0.1	UP	9223371986.85 	1
+
+
+Node: 4; Time: +50.00s, Local time: +50.00s, AODV Routing table
+
+AODV Routing table
+Destination	Gateway		Interface	Flag	Expire		Hops
+10.0.0.1	10.0.0.4	10.0.0.5	DOWN	8.09          	2
+10.0.0.4	10.0.0.4	10.0.0.5	UP	2.09          	1
+10.255.255.255	10.255.255.255	10.0.0.5	UP	9223371986.85 	1
+127.0.0.1	127.0.0.1	127.0.0.1	UP	9223371986.85 	1
+
+
+Node: 0; Time: +100.00s, Local time: +100.00s, AODV Routing table
+
+AODV Routing table
+Destination	Gateway		Interface	Flag	Expire		Hops
+10.0.0.3	10.0.0.3	10.0.0.1	UP	2.01          	1
+10.0.0.4	10.0.0.4	10.0.0.1	UP	2.09          	1
+10.0.0.5	10.0.0.5	10.0.0.1	UP	2.05          	1
+10.255.255.255	10.255.255.255	10.0.0.1	UP	9223371936.85 	1
+127.0.0.1	127.0.0.1	127.0.0.1	UP	9223371936.85 	1
+
+
+Node: 1; Time: +100.00s, Local time: +100.00s, AODV Routing table
+
+AODV Routing table
+Destination	Gateway		Interface	Flag	Expire		Hops
+10.0.0.3	10.0.0.3	10.0.0.2	UP	2.01          	1
+10.255.255.255	10.255.255.255	10.0.0.2	UP	9223371936.85 	1
+127.0.0.1	127.0.0.1	127.0.0.1	UP	9223371936.85 	1
+
+
+Node: 2; Time: +100.00s, Local time: +100.00s, AODV Routing table
+
+AODV Routing table
+Destination	Gateway		Interface	Flag	Expire		Hops
+10.0.0.1	10.0.0.1	10.0.0.3	UP	2.00          	1
+10.0.0.2	10.0.0.2	10.0.0.3	UP	2.01          	1
+10.0.0.4	10.0.0.4	10.0.0.3	UP	2.09          	1
+10.255.255.255	10.255.255.255	10.0.0.3	UP	9223371936.85 	1
+127.0.0.1	127.0.0.1	127.0.0.1	UP	9223371936.85 	1
+
+
+Node: 3; Time: +100.00s, Local time: +100.00s, AODV Routing table
+
+AODV Routing table
+Destination	Gateway		Interface	Flag	Expire		Hops
+10.0.0.1	10.0.0.1	10.0.0.4	UP	2.00          	1
+10.0.0.3	10.0.0.3	10.0.0.4	UP	2.01          	1
+10.0.0.5	10.0.0.5	10.0.0.4	UP	2.05          	1
+10.255.255.255	10.255.255.255	10.0.0.4	UP	9223371936.85 	1
+127.0.0.1	127.0.0.1	127.0.0.1	UP	9223371936.85 	1
+
+
+Node: 4; Time: +100.00s, Local time: +100.00s, AODV Routing table
+
+AODV Routing table
+Destination	Gateway		Interface	Flag	Expire		Hops
+10.0.0.1	10.0.0.1	10.0.0.5	UP	2.00          	1
+10.0.0.4	10.0.0.4	10.0.0.5	UP	2.09          	1
+10.255.255.255	10.255.255.255	10.0.0.5	UP	9223371936.85 	1
+127.0.0.1	127.0.0.1	127.0.0.1	UP	9223371936.85 	1
+
+
+Node: 0; Time: +150.00s, Local time: +150.00s, AODV Routing table
+
+AODV Routing table
+Destination	Gateway		Interface	Flag	Expire		Hops
+10.0.0.4	10.0.0.4	10.0.0.1	UP	2.09          	1
+10.0.0.5	10.0.0.5	10.0.0.1	UP	2.05          	1
+10.255.255.255	10.255.255.255	10.0.0.1	UP	9223371886.85 	1
+127.0.0.1	127.0.0.1	127.0.0.1	UP	9223371886.85 	1
+
+
+Node: 1; Time: +150.00s, Local time: +150.00s, AODV Routing table
+
+AODV Routing table
+Destination	Gateway		Interface	Flag	Expire		Hops
+10.0.0.3	10.0.0.3	10.0.0.2	UP	2.01          	1
+10.255.255.255	10.255.255.255	10.0.0.2	UP	9223371886.85 	1
+127.0.0.1	127.0.0.1	127.0.0.1	UP	9223371886.85 	1
+
+
+Node: 2; Time: +150.00s, Local time: +150.00s, AODV Routing table
+
+AODV Routing table
+Destination	Gateway		Interface	Flag	Expire		Hops
+10.0.0.2	10.0.0.2	10.0.0.3	UP	2.01          	1
+10.0.0.4	10.0.0.4	10.0.0.3	UP	2.09          	1
+10.255.255.255	10.255.255.255	10.0.0.3	UP	9223371886.85 	1
+127.0.0.1	127.0.0.1	127.0.0.1	UP	9223371886.85 	1
+
+
+Node: 3; Time: +150.00s, Local time: +150.00s, AODV Routing table
+
+AODV Routing table
+Destination	Gateway		Interface	Flag	Expire		Hops
+10.0.0.1	10.0.0.1	10.0.0.4	UP	2.01          	1
+10.0.0.3	10.0.0.3	10.0.0.4	UP	2.01          	1
+10.0.0.5	10.0.0.5	10.0.0.4	UP	2.05          	1
+10.255.255.255	10.255.255.255	10.0.0.4	UP	9223371886.85 	1
+127.0.0.1	127.0.0.1	127.0.0.1	UP	9223371886.85 	1
+
+
+Node: 4; Time: +150.00s, Local time: +150.00s, AODV Routing table
+
+AODV Routing table
+Destination	Gateway		Interface	Flag	Expire		Hops
+10.0.0.1	10.0.0.1	10.0.0.5	UP	2.01          	1
+10.0.0.4	10.0.0.4	10.0.0.5	UP	2.09          	1
+10.255.255.255	10.255.255.255	10.0.0.5	UP	9223371886.85 	1
+127.0.0.1	127.0.0.1	127.0.0.1	UP	9223371886.85 	1
+
+
+Node: 0; Time: +200.00s, Local time: +200.00s, AODV Routing table
+
+AODV Routing table
+Destination	Gateway		Interface	Flag	Expire		Hops
+10.0.0.4	10.0.0.4	10.0.0.1	UP	2.09          	1
+10.0.0.5	10.0.0.5	10.0.0.1	UP	2.04          	1
+10.255.255.255	10.255.255.255	10.0.0.1	UP	9223371836.85 	1
+127.0.0.1	127.0.0.1	127.0.0.1	UP	9223371836.85 	1
+
+
+Node: 1; Time: +200.00s, Local time: +200.00s, AODV Routing table
+
+AODV Routing table
+Destination	Gateway		Interface	Flag	Expire		Hops
+10.0.0.3	10.0.0.3	10.0.0.2	UP	1.01          	1
+10.255.255.255	10.255.255.255	10.0.0.2	UP	9223371836.85 	1
+127.0.0.1	127.0.0.1	127.0.0.1	UP	9223371836.85 	1
+
+
+Node: 2; Time: +200.00s, Local time: +200.00s, AODV Routing table
+
+AODV Routing table
+Destination	Gateway		Interface	Flag	Expire		Hops
+10.0.0.2	10.0.0.2	10.0.0.3	UP	1.01          	1
+10.0.0.4	10.0.0.4	10.0.0.3	UP	2.09          	1
+10.255.255.255	10.255.255.255	10.0.0.3	UP	9223371836.85 	1
+127.0.0.1	127.0.0.1	127.0.0.1	UP	9223371836.85 	1
+
+
+Node: 3; Time: +200.00s, Local time: +200.00s, AODV Routing table
+
+AODV Routing table
+Destination	Gateway		Interface	Flag	Expire		Hops
+10.0.0.1	10.0.0.1	10.0.0.4	UP	2.00          	1
+10.0.0.3	10.0.0.3	10.0.0.4	UP	2.01          	1
+10.0.0.5	10.0.0.5	10.0.0.4	UP	2.04          	1
+10.255.255.255	10.255.255.255	10.0.0.4	UP	9223371836.85 	1
+127.0.0.1	127.0.0.1	127.0.0.1	UP	9223371836.85 	1
+
+
+Node: 4; Time: +200.00s, Local time: +200.00s, AODV Routing table
+
+AODV Routing table
+Destination	Gateway		Interface	Flag	Expire		Hops
+10.0.0.1	10.0.0.1	10.0.0.5	UP	2.00          	1
+10.0.0.4	10.0.0.4	10.0.0.5	UP	2.09          	1
+10.255.255.255	10.255.255.255	10.0.0.5	UP	9223371836.85 	1
+127.0.0.1	127.0.0.1	127.0.0.1	UP	9223371836.85 	1
+
+
